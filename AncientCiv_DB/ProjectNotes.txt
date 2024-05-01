@@ -1,0 +1,3 @@
+﻿applies AncientCivs schema to database called ancientciv
+
+configure in appsettings.json
